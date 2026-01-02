@@ -97,6 +97,7 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 
 | 名称 ：成人                                                  | 简介                                                         | 类型   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- |
+| [美女收集器](https://t.me/meinvshouji)                       | 男人爱看的频道;美女，写真，图片，妹子，自拍，街拍等                | 频道   |
 | [快乐星球](https://t.me/botmzt)                              | 美女 妹子 精选 全网 中文 快乐星球                                | 频道   |
 | [足控天堂](https://t.me/sizukon)                             | 原创美腿丝袜，黑丝、肉丝、蕾丝、足控、高跟鞋、私房、空姐、制服诱惑等高清无码美女写真拍摄 | 频道   |
 | [颜值即正义](https://t.me/yzjzy)                             | 颜值即正义                                                      | 频道   |
@@ -115,8 +116,6 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 
 | 名称                                                         | 简介                                                         | 人数   | 类型   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :----- |
-| [即刻精选](https://t.me/jike_collection)                     | 精选即刻App热门话题                                          | 22983  | 频道   |
-| [擅长搜索的高木同学](https://t.me/gaomutongxue)              | 擅长搜索的高木同学                                           | 22945  | 频道   |
 | [Yummy](https://t.me/GodlyNews1)                             | 不定期推送科技数码类新资讯                                   | 22606  | 频道   |
 | [有故事的女同学](https://t.me/WenAnGuan_botjihuo)            | 网易云热评                                                   | 22371  | 频道   |
 | [外滩读书会](https://t.me/readingclubus)                     | 以英文为主的报纸、杂志、电子书及财经报告分享                 | 21845  | 频道   |
@@ -343,7 +342,6 @@ ERC20网络地址：TEM3YYvQn3bxgtnAdH7R6ABHMiubjDRmbW
 | [LearnSwiftUI](https://t.me/learnswiftui)                    | 每日分享SwiftUI相关的内容                                    | 1109   | 频道   |
 | [PC游戏搬运工](https://t.me/youxibanyunenen)                 | 搬运各种PC游戏                                               | 1100   | 频道   |
 | [Rachel碎碎念](https://t.me/RachelBlahblah)                  | 个人碎碎念频道                                               | 1060   | 频道   |
-| [美女收集器](https://t.me/meinvshouji)                       | 男人爱看的频道;美女，写真，图片，妹子，自拍，街拍等          | 1051   | 频道   |
 | [电脑安防等技术资料频道](https://t.me/zhuyianquan)           | 本频道整理发布一些电安全防护等技术相关的话题、资料           | 1034   | 频道   |
 | [迷影果醬](https://t.me/cinephiliajam)                       | 频道无规律推送影视                                           | 1029   | 频道   |
 | [币圈动态](https://t.me/biquan321)                           | 币圈动态                                                     | 1028   | 频道   |
